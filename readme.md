@@ -13,3 +13,10 @@ Text
 text\
 text<br> text, text\
 <u>text</u><br> text
+>text\
+text, text
+># text
+text
+=
+text  
+* text
